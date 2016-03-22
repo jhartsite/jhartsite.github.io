@@ -2,13 +2,7 @@ body{
 	background-color: rgb(39,77,171);
 }
 
-p,ul{
-	color: white;
-	text-align: center;
-}
-
-#title{
-	font-family: Arial, sans-serif;
+h1,p,ul{
 	color: white;
 	text-align: center;
 }
