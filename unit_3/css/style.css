@@ -2,14 +2,7 @@ body{
 	background-color: rgb(39,77,171);
 }
 
-h1,p{
+h1,p,ul{
 	color: white;
 	text-align: center;
-}
-
-ul{
-	color: white;
-	text-align: center;
-	list-style-type: none;
-
 }
