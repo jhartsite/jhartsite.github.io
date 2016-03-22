@@ -5,4 +5,9 @@ body{
 h1,p,ul{
 	color: white;
 	text-align: center;
+
+}   
+
+ul{
+	list-style-type: none;
 }
