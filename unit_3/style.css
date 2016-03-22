@@ -1,0 +1,13 @@
+body{
+	background-color:rgb(49,87,214); 
+}
+
+#title{
+	font-family: Arial,Sans-serif;
+	font-weight: bold;
+	color: rgb(199,189,209);
+}
+
+p,ul{
+	color: 194,207,229);
+}
