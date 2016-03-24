@@ -1,24 +1,28 @@
 body{
 	background-color: rgb(39,77,171);
-}
-
-h1,p,ul{
-	color: white;
-	text-align: center;
-	font-family: "New Times Roman",serif;
-
 }   
 
 ul{
+	color: white;
+	text-align: center;
 	list-style-type: none;
 }
 
 h1{
+	color: white;
+	text-align: center;
 	font-size: 90px;
-	font-family: "New Times Roman",serif;
 }
 
 h2{
 	color: white;
 	text-align: center;
+}
+
+.text{
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
 }
