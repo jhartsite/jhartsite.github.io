@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Ovo);
 
 body{
 	background-color: rgb(39,77,171);
@@ -23,6 +24,7 @@ h2{
 }
 
 .text{
+	font-family: 'Ovo', serif;
 	color: white;
 	text-align: center;
 	font-size: 18px;
