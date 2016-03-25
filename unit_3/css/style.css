@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
 body{
 	background-color: rgb(39,77,171);
 }   
@@ -9,6 +11,7 @@ ul{
 }
 
 h1{
+	font-family: "Lobster", cursive;
 	color: white;
 	text-align: center;
 	font-size: 90px;
