@@ -58,6 +58,10 @@ nav{
 	padding: 20px;
 }
 
+figure{
+	color: blue;
+}
+
 aside{
 	background-color: #FFC675;
 	border: 1px black solid;
