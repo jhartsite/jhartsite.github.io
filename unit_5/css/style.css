@@ -59,7 +59,9 @@ nav{
 }
 
 figure{
-	color: blue;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 aside{
