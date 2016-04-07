@@ -62,19 +62,14 @@ nav{
 	margin-left: auto;
 }
 
-#two_column{
-	background-color: #FFB7CF;
-	border: 1px black solid;
-	padding: 20px; 
-}
-#right{
-	background-color: #E55B88;
+aside{
+	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-#left{
-	background-color: #E582A2;
+article{
+	background-color: #E89C6C;
 	border:1px black solid;
 	padding: 20px;
 }
