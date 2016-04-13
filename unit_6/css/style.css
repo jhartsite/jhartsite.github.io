@@ -39,7 +39,6 @@ h2{
 }
 
 div{
-	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -115,6 +114,7 @@ article{
 }
 
 footer{
+	background-color: #FF957E;
 	border:1px black solid;
 	padding: 20px;
 }
