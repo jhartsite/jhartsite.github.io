@@ -51,11 +51,27 @@ header{
 }
 
 nav{
-	background-color: #E8C66A;
-	border:1px black solid;
+	background-color: rgb(39,77,171);
+	font-family: Arial, sans-serif;
+}
+
+a{
+	background-color: red;
+	color: white;
+	text-decoration: none;
+	display: block;
+	float: left;
 	padding: 20px;
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
 #kitty{
 	display: block;
 	margin-right: auto;
