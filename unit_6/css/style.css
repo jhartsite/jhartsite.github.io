@@ -83,7 +83,7 @@ a:hover {
 }
 
 #two_column{
-	border: 1px black solid;
+	border: 1px white solid;
 	padding: 20px; 
 }
 
@@ -95,7 +95,6 @@ a:hover {
 }
 
 #left{
-	background-color: violet;
 	border:1px black solid;
 	padding: 20px;
 	float: left;
