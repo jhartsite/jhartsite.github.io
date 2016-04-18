@@ -83,13 +83,11 @@ a:hover {
 }
 
 #two_column{
-	background-color: #FFB7CF;
 	border: 1px black solid;
 	padding: 20px; 
 }
 
 #right{
-	background-color: pink;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
