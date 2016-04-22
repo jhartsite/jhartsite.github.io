@@ -119,7 +119,9 @@ footer{
 @media only screen and (max-width:800px) {
 	#left {
 		display: block;
+		float: none;
 	    text-align: center;
+	    width: auto;
 	    margin: 1em;
 	}
 
