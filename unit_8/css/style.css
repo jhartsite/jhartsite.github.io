@@ -88,13 +88,13 @@ a:hover {
 }
 
 #right{
-	padding: 20px;
+	padding: 1em;
 	float: right;
 	width: 30%;
 }
 
 #left{
-	padding: 20px;
+	padding: 1em;
 	float: left;
 	width: 62%;
 }
