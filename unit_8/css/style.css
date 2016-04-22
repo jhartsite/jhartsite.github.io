@@ -108,10 +108,10 @@ a:hover {
 	height: 0;
 }
 article{
-		padding: 20px;
+		padding: 1em;
 }
 
 footer{
 	border:1px white solid;
-	padding: 20px;
+	padding: 1em;
 }
