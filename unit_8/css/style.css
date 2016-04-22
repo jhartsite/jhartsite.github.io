@@ -46,7 +46,7 @@ div{
 header{
 	background-color: rgb(39,77,171);
 	border: 1px white solid;
-	padding: 20px;
+	padding: 1em;
 }
 
 nav{
@@ -60,7 +60,7 @@ a{
 	text-decoration: none;
 	display: block;
 	float: left;
-	padding: 20px;
+	padding: 1em;
 }
 
 a:hover {
