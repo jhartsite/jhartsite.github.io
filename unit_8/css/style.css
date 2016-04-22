@@ -45,7 +45,7 @@ div{
 
 header{
 	background-color: rgb(39,77,171);
-	border: 1px black solid;
+	border: 1px white solid;
 	padding: 20px;
 }
 
@@ -112,6 +112,6 @@ article{
 }
 
 footer{
-	border:1px black solid;
+	border:1px white solid;
 	padding: 20px;
 }
