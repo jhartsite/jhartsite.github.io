@@ -135,7 +135,10 @@ footer{
 		width: auto;
 	}
 
-	a:hover {
-		background-color: auto;
 	}
-}
+
+	@media not (max-width: 800px) {
+		a:hover {
+			background-color: red;
+		}
+	}
