@@ -144,6 +144,10 @@ footer{
 	}
 
 	@media only screen and (max-width: 580px) {
+		#two_column{
+			width: auto;
+		}
+
 		#left{
 			display: block;
 			float: none;
