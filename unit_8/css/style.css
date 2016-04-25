@@ -150,6 +150,12 @@ footer{
 			width: auto;
 		}
 
+		#right{
+			display: block;
+			float: none;
+			width: auto;
+		}
+
 		ul{
 			width: auto;
 		}
