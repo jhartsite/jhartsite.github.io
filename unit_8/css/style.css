@@ -143,7 +143,12 @@ footer{
 		}
 	}
 
-	@media only screen and (max-width: 400px) {
+	@media only screen and (max-width: 480px) {
+		#left {
+			display: block;
+			float: none;
+			width: auto;
+		}
 
 
 
