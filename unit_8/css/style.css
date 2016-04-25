@@ -116,7 +116,7 @@ footer{
 	padding: 1em;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (min-width: 700px) {
 	#left {
 		display: block;
 		float: none;
@@ -141,4 +141,10 @@ footer{
 		a:hover {
 			background-color: red;
 		}
+	}
+
+	@media only screen and (max-width: 400px) {
+
+
+
 	}
