@@ -134,4 +134,8 @@ footer{
 	ul{
 		width: auto;
 	}
+
+	a:hover {
+		background-color: none;
+	}
 }
