@@ -152,6 +152,7 @@ footer{
 			display: block;
 			float: none;
 			width: auto;
+			margin: 1em;
 		}
 
 		#right{
@@ -166,6 +167,10 @@ footer{
 
 		ul{
 			width: auto;
+		}
+
+		#cat{
+			width: 320px;
 		}
 
 
