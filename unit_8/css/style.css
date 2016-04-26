@@ -148,6 +148,10 @@ footer{
 			width: 100%;
 		}
 
+		header{
+			width: auto;
+		}
+
 
 		#two_column{
 			width: auto;
