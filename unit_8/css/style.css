@@ -145,7 +145,7 @@ footer{
 
 	@media only screen and (max-width: 580px) {
 		div{
-			width: auto;
+			width: 100%;
 		}
 
 
