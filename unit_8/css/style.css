@@ -144,6 +144,11 @@ footer{
 	}
 
 	@media only screen and (max-width: 580px) {
+		div{
+			width: auto;
+		}
+
+
 		#two_column{
 			width: auto;
 		}
@@ -152,7 +157,6 @@ footer{
 			display: block;
 			float: none;
 			width: auto;
-			margin: 1em;
 		}
 
 		#right{
@@ -167,10 +171,6 @@ footer{
 
 		ul{
 			width: auto;
-		}
-
-		#cat{
-			width: 320px;
 		}
 
 
