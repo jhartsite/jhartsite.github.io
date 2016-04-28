@@ -11,6 +11,7 @@ body{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 2em;
 }
 
 ul{
@@ -29,6 +30,7 @@ h1{
 h2{
 	color: white;
 	text-align: center;
+	padding: 1em;
 }
 
 .text{
