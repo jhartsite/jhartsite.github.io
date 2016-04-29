@@ -154,6 +154,11 @@ footer{
 			padding: 5em;
 		}
 
+		nav a{
+			display: block;
+			float: none;
+		}
+
 
 		#two_column{
 			width: auto;
