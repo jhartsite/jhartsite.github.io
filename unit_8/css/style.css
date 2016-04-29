@@ -156,7 +156,8 @@ footer{
 
 		nav a{
 			display: block;
-			float: none;
+			text-align: center;
+			margin: 0;
 		}
 
 
