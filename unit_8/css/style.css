@@ -159,6 +159,7 @@ footer{
 		}
 
 		nav a{
+			float: none;
 			display: block;
 			text-align: center;
 			margin: 0;
