@@ -146,7 +146,7 @@ footer{
 
 		div{
 			width: 100%;
-			padding: 1em;
+			padding: .125em;
 		}
 
 		header{
@@ -155,13 +155,17 @@ footer{
 		}
 
 		h1{
-			font-size: 50px;
+			font-size: 60px;
 		}
 
 		nav a{
 			display: block;
 			text-align: center;
 			margin: 0;
+		}
+
+		#cat{
+			padding: 1em;
 		}
 
 
@@ -181,8 +185,9 @@ footer{
 			width: auto;
 		}
 
-		.text{
-			width: auto;
+		body{
+			font-size: 15px; 
+			text-align: left;
 		}
 
 		ul{
