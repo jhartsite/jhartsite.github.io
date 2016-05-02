@@ -5,7 +5,7 @@
 
 body{
 	background-color: rgb(39,77,171);
-	font-size: 16px;
+	font-size: 20px;
 	font-family: 'Ovo', serif;
 	color: white;
 	line-height: 1.5;
@@ -30,7 +30,7 @@ h1{
 	font-family: "Lobster", cursive;
 	color: white;
 	text-align: center;
-	font-size: 5em;
+	font-size: 4em;
 }
 
 h2{
@@ -187,7 +187,7 @@ footer{
 		}
 
 		body{
-			font-size: 1em; 
+			font-size: 0.8em; 
 			text-align: left;
 		}
 
