@@ -39,6 +39,12 @@ h2{
 	/* padding: 1em; */
 	margin-bottom: .5em;
 }
+
+#theartist{
+	color: white;
+	font-size: 2em;
+	text-align: right
+}
 section {
 	padding:4em;
 }
