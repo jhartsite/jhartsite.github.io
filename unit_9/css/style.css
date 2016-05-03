@@ -1,0 +1,197 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Ovo);
+
+*{ margin:0; padding:0; box-sizing:border-box;}
+
+body{
+	background-color: rgb(39,77,171);
+	font-size: 20px;
+	font-family: 'Ovo', serif;
+	color: white;
+	line-height: 1.5;
+}   
+
+#cat{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2em;
+	max-width: 31em;
+	width: 100%;
+	height: auto;
+}
+
+ul{
+	color: white;
+	list-style-type: none;
+}
+
+h1{
+	font-family: "Lobster", cursive;
+	color: white;
+	text-align: center;
+	font-size: 4.5em;
+}
+
+h2{
+	color: white;
+	text-align: center;
+	/* padding: 1em; */
+	margin-bottom: .5em;
+}
+section {
+	padding:4em;
+}
+header{
+	background-color: rgb(39,77,171);
+	border: 1px white solid;
+	padding: 4em;
+}
+
+a {
+	background-color: rgb(39,77,171);
+	color: white;
+}
+nav{
+	background-color: rgb(39,77,171);
+	font-family: Arial, sans-serif;
+}
+nav a{
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 1em;
+}
+
+a:hover {
+	background-color: red;
+
+}
+.wrapper {
+	max-width:60em;
+	margin:auto
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+#kitty{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#two_column{
+	border: 1px white solid;
+	margin: auto;
+}
+
+#right{
+	float: right;
+	width: 33.33%;
+}
+
+#left{
+	float: left;
+	width: 66.66%;
+	padding-right: 2em;
+}
+
+.clearfix:after{
+	visibility: hidden; 
+	display: block;
+	font-size: 0; 
+	content:" ";
+	clear: both;
+	height: 0;
+}
+
+footer{
+	border:1px white solid;
+	padding: 1em;
+}
+
+@media only screen and (max-width: 800px) {
+	a:hover{
+		background-color: rgb(39,77,171);
+	}
+
+	#left {
+		display: block;
+		float: none;
+	    text-align: center;
+	    width: auto;
+	    margin: 1em;
+	}
+
+	#right {
+		display: block;
+		float: none;
+		width: auto;
+	}
+
+	ul{
+		width: auto;
+	}
+
+}
+@media only screen and (max-width: 600px) {
+		a:hover{
+			background-color: rgb(39,77,171);
+		}
+
+		div{
+			width: 100%;
+			padding: .125em;
+		}
+
+		header{
+			width: 100%;
+			padding: 5em;
+		}
+
+		h1{
+			font-size: 4em;
+		}
+
+		nav a{
+			float: none;
+			display: block;
+			text-align: center;
+			margin: 0;
+		}
+
+		#cat{
+			padding: 1em;
+		}
+
+
+		#two_column{
+			width: auto;
+		}
+
+		#left{
+			display: block;
+			float: none;
+			width: auto;
+		}
+
+		#right{
+			display: block;
+			float: none;
+			width: auto;
+		}
+
+		body{
+			font-size: 0.8em; 
+			text-align: left;
+		}
+
+		ul{
+			width: auto;
+		}
+}
