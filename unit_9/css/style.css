@@ -44,6 +44,8 @@ h2{
 	color: white;
 	font-size: 2em;
 	text-align: right
+	margin-right: 5em;
+	margin-top: 4em;
 }
 section {
 	padding:4em;
@@ -105,6 +107,11 @@ a:hover {
 	float: left;
 	width: 66.66%;
 	padding-right: 2em;
+}
+
+#column{
+	bottom: 1px white solid;
+	margin: auto;
 }
 
 .clearfix:after{
