@@ -31,6 +31,12 @@ body{
 	height: auto;
 }
 
+#me{
+	display: block;
+	
+
+}
+
 ul{
 	color: white;
 	list-style-type: none;
