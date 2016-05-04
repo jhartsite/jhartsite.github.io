@@ -18,6 +18,7 @@ body{
 	padding: 4em;
 	text-align: left;
 	text-indent: .5em;
+	line-height: 1.5;
 }
 
 #cat{
@@ -55,6 +56,8 @@ h2{
 	text-align: right
 	margin-right: 6em;
 	margin-top: 4em;
+	float: right;
+	padding-right: 5em;
 }
 section {
 	padding:4em;
@@ -118,6 +121,9 @@ a:hover {
 	padding-right: 2em;
 }
 
+#column{
+	float: right;
+	width: 60%;
 }
 
 .clearfix:after{
