@@ -11,6 +11,11 @@ body{
 	line-height: 1.5;
 }   
 
+#meetme{
+	border:1px white solid;
+	margin: auto;
+}
+
 #cat{
 	display: block;
 	margin-left: auto;
@@ -109,9 +114,6 @@ a:hover {
 	padding-right: 2em;
 }
 
-#column{
-	border: 1px white solid;
-	margin: auto;
 }
 
 .clearfix:after{
