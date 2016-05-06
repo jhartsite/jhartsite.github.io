@@ -189,6 +189,10 @@ footer{
 		width: auto;
 	}
 
+	#column{
+		width: auto;
+	}
+
 	ul{
 		width: auto;
 	}
@@ -204,10 +208,6 @@ footer{
 		margin-top: 2em;
 		float: none;
 		padding-right: 4em;
-	}
-
-	#column{
-		width: auto;
 	}
 
 	#me{
