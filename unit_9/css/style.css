@@ -173,15 +173,16 @@ footer{
 		background-color: rgb(39,77,171);
 	}
 
-	#theartist{
+	/*#theartist{
 		color: white;
 		font-size: 2em;
 		text-align: right
 		margin-right: 6em;
 		margin-top: 2em;
 		float: none;
-		padding-right: 4em;
-}
+		padding-right: 4em;*/
+	}
+
 
 	}
 
@@ -199,14 +200,14 @@ footer{
 		width: auto;
 	}
 
-	#column{
-		width: auto;
+	/*#column{
+		width: auto;*/
 	}
 
-	#me{
+	/*#me{
 		float: none;
 		margin-left: auto;
-		margin-right: auto;
+		margin-right: auto;*/
 	}
 
 	ul{
