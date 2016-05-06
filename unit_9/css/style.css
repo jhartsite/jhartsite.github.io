@@ -195,25 +195,6 @@ footer{
 
 }
 
-@media only screen and (max-width: 998px){
-	#theartist{
-		color: white;
-		font-size: 2em;
-		text-align: right
-		margin-right: 6em;
-		margin-top: 2em;
-		float: none;
-		padding-right: 4em;
-	}
-
-	#me{
-		float: none;
-		margin-left: auto;
-		margin-right: auto;
-	}
-
-}
-
 @media only screen and (max-width: 600px) {
 		a:hover{
 			background-color: rgb(39,77,171);
@@ -269,4 +250,27 @@ footer{
 		ul{
 			width: auto;
 		}
+}
+
+@media only screen and (max-width: 998px){
+	#theartist{
+		color: white;
+		font-size: 2em;
+		text-align: right
+		margin-right: 6em;
+		margin-top: 2em;
+		float: none;
+		padding-right: 4em;
+	}
+
+	#column{
+		width: auto;
+	}
+
+	#me{
+		float: none;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
 }
