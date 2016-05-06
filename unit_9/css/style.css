@@ -32,16 +32,20 @@ body{
 	height: auto;
 }
 
+.imgframe{
+	background: white
+	padding:1.5em;
+	border: 1px solid #99999;
+}
+
+
 #me{
 	display: block;
 	margin-left: 5em;
 	margin-right: 3em;
 	margin-top: 12em;
 	float: left;
-	background: white
-	padding:1.5em;
-	border: 1px solid #99999;
-
+	
 }
 
 ul{
