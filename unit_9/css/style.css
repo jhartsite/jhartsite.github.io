@@ -161,6 +161,7 @@ a:hover {
 footer{
 	border:1px white solid;
 	padding: 1em;
+	clear: both;
 }
 
 @media only screen and (max-width: 800px) {
