@@ -74,7 +74,7 @@ h2{
 	margin-right: 6em;
 	margin-top: 2em;
 	float: right;
-	padding-right: 5em;
+	padding-right: 4em;
 }
 section {
 	padding:4em;
@@ -140,7 +140,7 @@ a:hover {
 
 #column{
 	float: right;
-	width: 60%;
+	width: 50%;
 }
 
 .clearfix:after{
