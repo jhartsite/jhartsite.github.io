@@ -10,7 +10,12 @@ body{
 	color: white;
 	line-height: 1.5;
 	text-indent: .5em;
-}   
+} 
+
+#header{
+	background: black url (/images/bannerone.jpg) center no-repeat;
+	
+}  
 
 #meetme{
 	border:1px white solid;
