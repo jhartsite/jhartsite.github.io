@@ -13,8 +13,8 @@ body{
 } 
 
 #header{
-	background: black url (/images/bannerone.jpg) center no-repeat;
-	
+	background: url(/images/bannerone.jpg) center no-repeat;
+
 }  
 
 #meetme{
