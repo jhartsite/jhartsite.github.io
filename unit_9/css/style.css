@@ -29,8 +29,8 @@ body{
 
 #mainimage{
 	display: block;
-	padding: 2em;
-	max-width: 31em;
+	padding: none;
+	max-width: 70em;
 	width: 100%;
 }
 
