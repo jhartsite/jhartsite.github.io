@@ -85,7 +85,7 @@ section {
 }
 header{
 	background-color: rgba(39,130,171,1);
-	border: 1px white solid;
+	border: 1px rgba(39,130,171,1) solid;
 	padding: 4em;
 }
 
