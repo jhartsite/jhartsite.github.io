@@ -66,6 +66,7 @@ h1{
 	text-align: right;
 	font-size: 4.5em;
 	background-image: url("../images/horseheader2.png");
+	background-repeat: no-repeat;
 	padding: 1.4em;
 }
 
@@ -216,7 +217,7 @@ footer{
 
 		header{
 			width: 100%;
-			padding: 5em;
+			padding: 2em;
 		}
 
 		h1{
