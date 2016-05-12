@@ -263,6 +263,11 @@ footer{
 }
 
 @media only screen and (max-width: 998px){
+	h1{
+		text-align: right;
+		background-position: center;
+	}
+
 	#theartist{
 		color: white;
 		font-size: 2em;
@@ -296,7 +301,7 @@ footer{
 
 	body{
 
-		font-size: 0.8em
+		font-size: 1em
 	}
 
 }
