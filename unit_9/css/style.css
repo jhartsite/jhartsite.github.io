@@ -18,6 +18,7 @@ body{
 } 
 
 #meetme{
+	background-color: rgba(39,130,171,1);
 	border:1px white solid;
 	margin: auto;
 	padding: 4em;
