@@ -67,6 +67,7 @@ h1{
 	font-size: 4.5em;
 	background-image: url("../images/horseheader2.png");
 	background-repeat: no-repeat;
+	background-size: cover;
 	padding: 1.4em;
 }
 
@@ -266,6 +267,10 @@ footer{
 	h1{
 		text-align: right;
 		background-position: center;
+	}
+
+	header{
+		padding: 2em;
 	}
 
 	#theartist{
