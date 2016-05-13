@@ -68,6 +68,11 @@ div.img img{
 	height:auto;
 }
 
+div.desc{
+	padding: 1.5em;
+	text-align: center;
+}
+
 h1{
 	font-family: "Lobster", cursive;
 	color: white;
