@@ -63,6 +63,11 @@ div.img{
 	
 }
 
+div.img img{
+	width: 100%;
+	height:auto;
+}
+
 h1{
 	font-family: "Lobster", cursive;
 	color: white;
