@@ -76,6 +76,12 @@ div.desc{
 	text-align: center;
 }
 
+#bird{
+	float: right;
+	width:100%;
+	height: auto;
+}
+
 h1{
 	font-family: "Lobster", cursive;
 	color: white;
