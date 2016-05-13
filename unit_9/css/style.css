@@ -56,7 +56,7 @@ body{
 }
 
 div.img{
-	margin:2em;
+	margin:1.5em;
 	float: left;
 	width: 15em;
 	
@@ -74,12 +74,6 @@ div.img img{
 div.desc{
 	padding: 1.5em;
 	text-align: center;
-}
-
-#bird{
-	float: right;
-	width:100%;
-	height: auto;
 }
 
 h1{
