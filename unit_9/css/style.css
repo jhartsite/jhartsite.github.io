@@ -132,6 +132,7 @@ a:hover {
 
 }
 .wrapper {
+	background-color: pink;
 	max-width:60em;
 	margin:auto
 }
@@ -213,10 +214,6 @@ footer{
 	#right {
 		display: block;
 		float: none;
-		width: auto;
-	}
-
-		ul{
 		width: auto;
 	}
 
