@@ -17,10 +17,6 @@ body{
 
 } 
 
-#box{
-	background-color: aqua;
-}
-
 #meetme{
 	background-color: rgba(39,130,171,1);
 	border:1px rgba(39,130,171,1) solid;
