@@ -15,7 +15,11 @@ body{
 .banner{
 	width: 100%;
 
-} 
+}
+
+.box{
+	background-color: yellow;
+}
 
 #meetme{
 	background-color: rgba(39,130,171,1);
