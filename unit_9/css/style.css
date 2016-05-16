@@ -55,6 +55,11 @@ body{
 	
 }
 
+#gallery{
+	text-align: center;
+	font-size: 2em;
+}
+
 div.img{
 	margin:1.5em;
 	float: left;
