@@ -80,6 +80,10 @@ div.desc{
 	padding: 1.5em;
 	text-align: center;
 }
+div.img1{
+	margin:1.5em;
+	float: left;
+}
 
 h1{
 	font-family: "Lobster", cursive;
