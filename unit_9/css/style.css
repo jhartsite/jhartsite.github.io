@@ -183,12 +183,10 @@ a:hover {
 }
 
 #imgcolumn1{
-	background-color: green;
 	float: left;
 	width: 55%;
 }
 #imgcolumn2{
-	background-color: red;
 	float: right;
 	width: 45%;
 }
