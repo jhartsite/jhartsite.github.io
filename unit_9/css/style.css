@@ -85,6 +85,10 @@ div.img1{
 	margin:1.5em;
 	float: left;
 }
+div.img2{
+	margin: 1.5em;
+	float: right;
+}
 
 h1{
 	font-family: "Lobster", cursive;
