@@ -9,7 +9,7 @@ body{
 	font-family: 'Ovo', serif;
 	color: white;
 	line-height: 1.5;
-	text-indent: .5em;
+	/* text-indent: .5em; */
 } 
 
 .banner{
@@ -61,24 +61,25 @@ body{
 	font-size: 3em;
 }
 
-div.img{
-	margin:1.5em;
+#right a{
+	padding: 1em;
 	float: left;
-	width: 15em;
-	
+	width: 33.33%;
+	text-decoration:none;
+	color: #fff;
 }
 
-div.img:hover{
+#right a:hover{
 	background-color: rgba(39,130,171,1);
 }
 
-div.img img{
+#right img{
 	width: 100%;
 	height:auto;
 }
 
-div.desc{
-	padding: 1.5em;
+#right p{
+	/* padding: 1.5em; */
 	text-align: center;
 }
 div.img1{
@@ -122,7 +123,7 @@ header{
 	padding: 4em;
 }
 
-a {
+nav a {
 	background-color: rgb(39,77,171);
 	color: white;
 }
@@ -137,7 +138,7 @@ nav a{
 	padding: 1em;
 }
 
-a:hover {
+nav a:hover {
 	background-color: red;
 
 }
