@@ -4,17 +4,14 @@
 	<title>Gallery</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<meta name="viewport" content="width=device=width, initial-scale=1">
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/fancy0.box/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 </head>
 <body>
 	<div class="wrapper">
 	<header>
-	<style>.ig-b- { display: inline-block; }
-.ig-b- img { visibility: hidden; }
-.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
-.ig-b-48 { width: 48px; height: 48px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-48.png) no-repeat 0 0; }
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
-.ig-b-48 { background-image: url(//badges.instagram.com/static/images/ig-badge-sprite-48@2x.png); background-size: 60px 178px; } }</style>
-<a href="https://www.instagram.com/noodles_art/?ref=badge" class="ig-b- ig-b-48"><img src="//badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" /></a>
+<a href="https://www.instagram.com/noodles_art/?ref=badge" target="_blank" class="ig-b- ig-b-48"><img src="//badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" /></a>
 			<h1>JHArt</h1>
 		<nav class="clearfix">
 				<a href="index.html"> Home </a>
@@ -54,13 +51,16 @@
 				<a target="_blank" href="images/cat.JPG">
 					<img src="images/cat.JPG" alt="catart">
 				</a>
-				<div class="desc"> Mainecoon Cat- 5.5X8.5 Graphite </div>
-		
-		
+				<div class="desc"> Mainecoon Cat- 5.5X8.5 Graphite </div>	
 	</section>
 	</div>
 	<footer> <p>Copyright 2016- Jasmine Hernandez</p> </footer>
 	</div>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
 </body>
 
 </html>
