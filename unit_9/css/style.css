@@ -356,15 +356,15 @@ footer{
 	a:hover{
 		background-color: rgb(39,77,171);
 	} 
-	
+
 	#imgcolumn1{
 				float: none;
-				width: 55%;
+				width: 50%;
 }
 
 	#imgcolumn2{
 				float: none;
-				width: 45%;
+				width: 50%;
 }
 
 }
