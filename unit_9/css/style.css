@@ -296,11 +296,7 @@ footer{
 }
 
 @media only screen and (max-width: 998px){
-
-	a:hover{
-		background-color: rgb(39,77,171);
-	}
-
+	
 	h1{
 		text-align: right;
 		background-position: center;
@@ -334,11 +330,8 @@ footer{
 }
 
 @media only screen and (max-width: 630px){
-	a:hover{
-		background-color: rgb(39,77,171);
-	}
-
-	nav a{
+	
+		nav a{
 			float: none;
 			display: block;
 			text-align: center;
@@ -355,9 +348,6 @@ footer{
 }
 
 @media only screen and (max-width: 800px){
-	a:hover{
-		background-color: rgb(39,77,171);
-	} 
 
 	#gallery{
 		margin-left: 3em;
@@ -378,5 +368,8 @@ footer{
 }
 
 @media only screen and (max-width: 580px){
+	h1{
+		font-size: 3em;
+	}
 
 }
