@@ -216,7 +216,7 @@ footer{
 }
 
 @media only screen and (max-width: 800px) {
-	a:hover{
+	#right a:hover{
 		background-color: rgb(39,77,171);
 	}
 
