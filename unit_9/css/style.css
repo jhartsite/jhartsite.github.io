@@ -345,9 +345,11 @@ footer{
 			margin: 0;
 		}
 
-	body{
+}
 
-		font-size: 1em
+@media only screen and (max-width: 400px ){
+	#meetme{
+		padding: 2em;
 	}
 
 }
@@ -372,5 +374,9 @@ footer{
 				margin-left: auto;
 				margin-right: auto;
 }
+
+}
+
+@media only screen and (max-width: 580px){
 
 }
