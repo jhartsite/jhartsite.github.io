@@ -372,4 +372,11 @@ footer{
 		font-size: 3em;
 	}
 
+	#right a{
+	padding: 1em;
+	float: none;
+	width: 33.33%;
+	text-decoration:none;
+	color: #fff;
+}
 }
