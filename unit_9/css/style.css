@@ -363,15 +363,16 @@ footer{
 
 	#imgcolumn1{
 				float: none;
+	}
+
 }
 
 	/*#imgcolumn2{
 				float: none;
 				margin-left: auto;
 				margin-right: auto;*/
-}
 
-}
+
 
 @media only screen and (max-width: 580px){
 	h1{
