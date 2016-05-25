@@ -17,10 +17,6 @@ body{
 
 }
 
-.box{
-	background-color: yellow;
-}
-
 #meetme{
 	background-color: rgba(39,130,171,1);
 	border:1px rgba(39,130,171,1) solid;
@@ -297,7 +293,7 @@ footer{
 			width: auto;
 		}
 }
-
+/*About me media queries*/
 @media only screen and (max-width: 998px){
 	
 	h1{
@@ -361,9 +357,9 @@ footer{
 		margin-left: 3em;
 	}
 
-	#imgcolumn1{
+	/*#imgcolumn1{
 				float: none;
-	}
+	}*/
 
 }
 
@@ -393,6 +389,8 @@ footer{
 }
 
 #imgcolumn1{
+
+	float: none;
 	padding: 1em;
 }
 }
