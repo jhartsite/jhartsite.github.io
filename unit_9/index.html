@@ -4,6 +4,9 @@
 	<title>JHart</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<link rel="stylesheet" href="source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="source/jquery.fancybox.pack.js?v=2.1.5"></script>
 </head>
 <body>
 	<div class="wrapper">
@@ -25,16 +28,16 @@
 			</section>
 			<section id="right">
 				<h2>I work the following mediums</h2>
-				<a target="_blank" href="images/whitetiger.jpg">
-					<img src="images/whitetiger.jpg" alt="whitetiger">
+				<a class="fancybox" target="_blank" href="images/whitetiger.jpg">
+					<img src="thumbnails/whitetigertn.jpg" alt="whitetiger">
 					<p class="desc">Colorpencil drawing</p>
 				</a>
-				<a target="_blank" href="images/elephant2.jpg">
-					<img src="images/elephant2.jpg" alt="elephant">
+				<a class="fancybox" target="_blank" href="images/elephant2.jpg">
+					<img src="thumbnails/elephant2tn.jpg" alt="elephant">
 					<p class="desc">Graphite drawing</p>
 				</a>
-				<a target="_blank" href="images/hummingbird2.png">
-					<img src="images/hummingbird2.png" alt="hummingbird">
+				<a class="fancybox" target="_blank" href="images/hummingbird2.png">
+					<img src="thumbnails/hummingbird2tn.jpg" alt="hummingbird">
 					<p>Arcylic painting </p>
 				</a>
 			</section>
@@ -48,5 +51,12 @@
 			<p>Copyright 2016- Jasmine Hernandez</p>
 		</footer>
 	</div>
+	<script type="text/javascript">
+
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+	</script>
+
 </body>
 </html>
