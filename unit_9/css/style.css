@@ -286,7 +286,7 @@ footer{
 		}
 }
 /*About me media queries*/
-@media only screen and (max-width: 998px){
+@media only screen and (max-width: 1045px){
 	
 	h1{
 		text-align: right;
@@ -300,9 +300,7 @@ footer{
 	#theartist{
 		color: white;
 		font-size: 2em;
-		text-align: right
-		margin-right: 6em;
-		margin-top: 1em;
+		text-align: center;
 		float: none;
 		padding-right: 1em;
 	}
@@ -318,6 +316,7 @@ footer{
 		float: none;
 		margin-left: auto;
 		margin-right: auto;
+		margin-top: 2em;
 	}
 
 }
