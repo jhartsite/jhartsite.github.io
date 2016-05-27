@@ -336,13 +336,6 @@ footer{
 
 }
 
-@media only screen and (max-width: 400px ){
-	#meetme{
-		padding: 2em;
-	}
-
-}
-
 /*Gallery media query*/
 @media only screen and (max-width: 800px){
 
