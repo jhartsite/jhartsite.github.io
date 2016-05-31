@@ -47,6 +47,11 @@ body{
 	font-size: 3em;
 }
 
+div{
+	background-color: aqua;
+	padding: 2em;
+}
+
 #right a{
 	padding: 1em;
 	float: left;
