@@ -53,7 +53,11 @@ div.comission{
 }
 
 .comissions1{
-	padding: 2em;
+	margin: 1em;
+}
+
+h2.comissions1{
+	font-size: 3em;
 }
 
 #right a{
