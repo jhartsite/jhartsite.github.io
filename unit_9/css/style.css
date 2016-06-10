@@ -59,6 +59,8 @@ div.comission{
 
 h2.comissions1{
 	font-size: 3em;
+	margin-right:auto;
+	margin-left:auto;
 }
 
 #right a{
@@ -397,3 +399,4 @@ footer{
 	padding: 1em;
 }
 }
+
