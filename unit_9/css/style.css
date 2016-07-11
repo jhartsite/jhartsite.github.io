@@ -184,6 +184,13 @@ nav a:hover {
 	margin: 1em;
 }
 
+#artwalk{
+	display: block;
+	width: 100%;
+	margin-left: none;
+	margin-right: none;
+}
+
 #column{
 	background-color: rgba(39,130,171,1);
 	border:1px rgba(39,130,171,1) solid;
