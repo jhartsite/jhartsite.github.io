@@ -40,6 +40,10 @@ body{
 	
 }
 
+.text{
+	padding: 2em;
+}
+
 #gallery{
 	margin: 1.5em;
 	margin-right: 5em;
